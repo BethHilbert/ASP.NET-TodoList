@@ -1,0 +1,237 @@
+﻿@model IEnumerable<TodoList.Models.TodoItem>
+@{
+	ViewBag.Title = "Dynamic Design Todo List";
+}
+
+<h3>Todo List</h3>
+Dynamic Serving have targeted content per device served. Requires maintaining multiple layouts.
+<hr />
+
+<img src="~/Content/Image/todoImage3.jpg" alt="todo list" width="400 height="100" />
+
+<div id="currentTaskList">
+	
+	<button class="btn btn-primary addTaskButton">Enter Another Task</button>
+	<hr />
+	<h4>Task List</h4>
+
+	<form id="newTask" style="display:none;">
+		<h4>Add New Task</h4>
+		<div class="form-group">
+			<label for="Task">Task</label>
+			<input type="text" class="form-control" id="Task" placeholder="Task" />
+		</div>
+		<div class="form-group">
+			<label class="control-label" for="Category">Category</label>
+			<select class="form-control" name="Category" id="CategoryDD"></select>
+		</div>
+
+		<div class="CreateButton">
+			<button type="submit" class="btn btn-primary submitCreateButton">Add Task</button>
+		</div>
+	</form>
+
+	<form id="editTaskForm" style="display:none;">
+		<h4>Edit Task</h4>
+
+		<div class="form-group">
+			<label for="Task">Task</label>
+			<input type="text" class="form-control" id="editTask" placeholder="Task" />
+		</div>
+		<div class="form-group">
+			<label class="control-label" for="Category">Category</label>
+			<select class="form-control" name="Category" id="editCategoryDD"></select>
+		</div>
+		<div class="form-group hidden">
+			<label for="TaskId">TaskId</label>
+			<input type="text" class="form-control" id="editTaskId" placeholder="TaskId" />
+		</div>
+		<div class="submitEditTask">
+			<button type="submit" class="btn btn-primary" id="submitEditButton">Update Task</button>
+		</div>
+		<div class="cancelEditTask">
+			<button type="submit" class="btn btn-primary" id="cancelEditButton">Cancel Editing Task</button>
+		</div>
+	</form>
+
+	<ul class="list-group" id="ulTasks">
+		<tag class="taskRowSection"></tag>
+	</ul>
+</div>
+
+
+@section Scripts {
+	<script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+	<script>
+		$(document).ready(function () {
+
+			// Populate todoItem lines
+			$.ajax({
+				url: '/home/IndexData',
+				dataType: 'json',
+				contentType: 'application/json',
+				method: "GET"
+			}).done(function (todoItems) {
+				$.each(todoItems, function (i, todoItem) {
+					var part1 = '<li class="taskRow" data-taskID="'+todoItem.Id+'"><p>Task: <tag class="insertTask">' + todoItem.Task + '</tag></p>';
+					var part2 = '<p> Category: <tag class="insertCategory">' + todoItem.Category.Name + '</tag></p>';
+					var part3 = '<p> Date Complete: <tag class="insertDate">' + todoItem.DateCompleted + '</tag></p>';
+					var part4 = '<p class="hidden"> ItemId: <tag class="insertItemId">' + todoItem.Id + '</tag></p>';
+					var part5 = '<p class="hidden"> CategoryId: <tag class="insertCategoryId">' + todoItem.Category.Id + '</tag></p>';
+					var part6 = '<p class="actionButtonsList"><button class="btn btn-default markDoneButton"> Mark Task Done</button ><button class="btn btn-default deleteTaskButton">Delete Task</button><button class="btn btn-default editTaskButton">Edit Task</button></p></li>';
+					$(".taskRowSection").before(part1 + part2 + part3 + part4 + part5 + part6);
+				});
+			}).fail(function (xhr, status, error) {
+				console.log("error loading todo Items", xhr, status, error);
+				alert('error loading todo task');
+				});
+
+			// Create DropDown for Category
+			$.ajax({
+				url: '/categories/indexData/',
+				dataType: 'json',
+				contentType: 'application/json',
+				method: 'GET'
+			}).done(function (responseJSON, status, xhr) {
+				//for (var i = 0; i < responseJSON.length; i++) {
+				//var item = responseJSON[i];
+				$.each(responseJSON, function (i, item) {
+					$("#CategoryDD").append('<option value="' + item.Id + '">' + item.Name + '</option>');
+					$("#editCategoryDD").append('<option value="' + item.Id + '">' + item.Name + '</option>');
+				});
+			}).fail(function (xhr, status, error) {
+				console.log("error with category dropdown list", xhr, status, error);
+			});
+
+			// Displays the New Task Form when Add Task Button Pressed
+			$('#currentTaskList').on('click', '.addTaskButton', function () {
+				$("#newTask").show();
+				$("#Task").focus();
+			});
+
+			// Collects and Saves Info On New Task Form when Button Pressed
+			$('#newTask').on('click', '.submitCreateButton', function () {
+				var taskValue = $("#Task").val();
+				var categoryValue = $("#CategoryDD").val()
+				$.ajax({
+					url: '/home/create/',
+					dataType: 'json',
+					contentType: 'application/json',
+					method: 'POST',
+					data: JSON.stringify({
+						Task: taskValue,
+						CategoryId: categoryValue,
+					})
+				}).done(function (todoItem, status, xhr) {
+					var part1 = '<li class = "taskRow"  data-taskID="' + todoItem.Id +'"><p>Task: <tag class="insertTask">' + todoItem.Task + '</tag></p>';
+					var part2 = '<p> Category: <tag class="insertCategory">' + todoItem.Category.Name + '</tag></p>';
+					var part3 = '<p> Date Complete: <tag class="insertDate">' + todoItem.DateCompleted + '</tag></p>';
+					var part4 = '<p class="hidden"> ItemId: <tag class="insertItemId">' + todoItem.Id + '</tag></p>';
+					var part5 = '<p class="hidden"> CategoryId: <tag class="insertCategoryId">' + todoItem.Category.Id + '</tag></p>';
+					var part6 = '<p class="actionButtonsList"><button class="btn btn-default markDoneButton"> Mark Task Done</button ><button class="btn btn-default deleteTaskButton">Delete Task</button><button class="btn btn-default editTaskButton">Edit Task</button></p></li>';
+					var completeTaskLine = (part1 + part2 + part3 + part4 + part5 + part6);
+					$(".taskRowSection").before(completeTaskLine);
+					//$("ul").prepend(completeTaskLine);
+					$("#Task").val("");
+					$("#newTask").hide();
+				}).fail(function (xhr, status, error) {
+					console.log("error with create", xhr, status, error);
+				});
+				return false;
+			});
+
+			// Mark Task Done
+			$('#currentTaskList').on('click', '.markDoneButton', function () {
+				var thisRow = $(this).closest(".taskRow");
+				var idOfTask = thisRow.find(".insertItemId").text()
+				$.ajax({
+					url: '/home/MarkDone/',
+					dataType: 'json',
+					contentType: 'application/json',
+					data: JSON.stringify({
+						id: idOfTask
+					}),
+					method: 'POST',
+				}).done(function (responseData, status, xhr) {
+					thisRow.find(".insertDate").html(responseData.DateCompleted);
+				}).fail(function (xhr, status, error) {
+					console.log("error marking task done", xhr, status, error);
+				});
+				return false;
+			});
+
+			// Delete Task
+			$('#currentTaskList').on('click', '.deleteTaskButton', function () {
+				var thisRow = $(this).closest(".taskRow");
+				var idOfTask = thisRow.find(".insertItemId").text();
+				var r = confirm("Are you sure you want to delete this task?");
+				if (r == true) {
+					$.ajax({
+						url: '/home/delete/',
+						dataType: 'json',
+						contentType: 'application/json',
+						method: 'POST',
+						data: JSON.stringify({
+							id: idOfTask
+						}),
+					}).done(function (responseData, status, xhr) {
+						thisRow.remove();
+					}).fail(function (xhr, status, error) {
+						console.log("error deleting task", xhr, status, error);
+					});
+					return false;
+				}
+			});
+
+			// Displays Edit Form when Edit Task Button Pressed
+			$('#currentTaskList').on('click', '.editTaskButton', function () {
+				var thisRow = $(this).closest(".taskRow");
+				var idOfTask = thisRow.find(".insertItemId").text();
+				var originalTask = thisRow.find(".insertTask").text();
+				var originalCategoryId = thisRow.find(".insertCategoryId").text();
+				$("#editTaskForm").show();
+				$("#editTask").val(originalTask);
+				$("#editCategoryDD").val(originalCategoryId);
+				$("#editTaskId").val(idOfTask);
+				$("#editTask").focus();
+			});
+
+			// Collects and Saves Edits Submitted Task Form when Button Pressed
+			$('#editTaskForm').on('click', '#submitEditButton', function () {
+				var idOfTaskValue = $("#editTaskId").val();
+				var categoryIdValue = $("#editCategoryDD").val();
+				var taskValue = $("#editTask").val();
+				$.ajax({
+					url: '/home/Edit/',
+					dataType: 'json',
+					contentType: 'application/json',
+					method: 'POST',
+					data: JSON.stringify({
+						id: idOfTaskValue,
+						categoryId: categoryIdValue,
+						task: taskValue
+					})
+				}).done(function (responseData, status, xhr) {
+					var thisRow = $('li[data-taskID="' + responseData.Id + '"]');
+					thisRow.find(".insertTask").html(responseData.Task);
+					thisRow.find(".insertCategory").html(responseData.Category.Name);
+					thisRow.find(".insertCategoryId").html(responseData.Category.Id);
+					$("#editTask").val("");
+					$("#editTaskId").val("");
+					$("#editCategoryDD").val("");
+					$("#editTaskForm").hide();
+				}).fail(function (xhr, status, error) {
+					console.log("error editing task", xhr, status, error);
+				});
+				return false;
+			});
+
+			// Cancels Editing When Button Pressed
+			$('#editTaskForm').on('click', '#cancelEditButton', function () {
+				$("#editTask").val("");
+				$("#editTaskId").val("");
+				$("#editTaskForm").hide();
+			});
+		});
+	</script>
+}

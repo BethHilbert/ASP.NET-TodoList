@@ -1,0 +1,24 @@
+﻿@model IEnumerable<TodoList.Models.TodoItem>
+
+<ul class="list-group">
+
+	@if (Model.Any())
+	{
+		foreach (var task in Model)
+		{
+			<li class="list-group-item" id="itemContent-@task.Id">
+				@{ Html.RenderPartial("_task", task); }
+			</li>
+		}
+
+	}
+	else
+	{
+		<li class="list-group-item">
+			<div class="alert alert-info">No todo tasks on your list</div>
+		</li>
+	}
+
+	<div id="addItem"></div>
+	
+</ul>

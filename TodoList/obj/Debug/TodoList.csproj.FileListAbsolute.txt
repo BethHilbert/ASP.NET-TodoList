@@ -1,0 +1,1423 @@
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\ApplicationInsights.config
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\TodoList.dll.config
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\TodoList.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\TodoList.pdb
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Antlr3.Runtime.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\EntityFramework.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\EntityFramework.SqlServer.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AI.Web.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Newtonsoft.Json.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Owin.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Web.Helpers.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Web.Mvc.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Web.Optimization.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Web.Razor.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Web.WebPages.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\WebGrease.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Web.Helpers.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Web.Mvc.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Web.Optimization.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Web.Razor.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Web.WebPages.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Antlr3.Runtime.pdb
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Newtonsoft.Json.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\EntityFramework.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\EntityFramework.SqlServer.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AI.Web.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\obj\Debug\TodoList.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\obj\Debug\TodoList.pdb
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\8012\TodoList\TodoList\bin\ApplicationInsights.config
+D:\8012\TodoList\TodoList\bin\TodoList.dll.config
+D:\8012\TodoList\TodoList\bin\TodoList.dll
+D:\8012\TodoList\TodoList\bin\TodoList.pdb
+D:\8012\TodoList\TodoList\bin\Antlr3.Runtime.dll
+D:\8012\TodoList\TodoList\bin\EntityFramework.dll
+D:\8012\TodoList\TodoList\bin\EntityFramework.SqlServer.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.AI.Web.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Security.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Google.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+D:\8012\TodoList\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\8012\TodoList\TodoList\bin\Newtonsoft.Json.dll
+D:\8012\TodoList\TodoList\bin\Owin.dll
+D:\8012\TodoList\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\8012\TodoList\TodoList\bin\System.Web.Helpers.dll
+D:\8012\TodoList\TodoList\bin\System.Web.Mvc.dll
+D:\8012\TodoList\TodoList\bin\System.Web.Optimization.dll
+D:\8012\TodoList\TodoList\bin\System.Web.Razor.dll
+D:\8012\TodoList\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\8012\TodoList\TodoList\bin\System.Web.WebPages.dll
+D:\8012\TodoList\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\8012\TodoList\TodoList\bin\WebGrease.dll
+D:\8012\TodoList\TodoList\bin\Antlr3.Runtime.pdb
+D:\8012\TodoList\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.AI.Web.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Security.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Google.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+D:\8012\TodoList\TodoList\bin\Newtonsoft.Json.xml
+D:\8012\TodoList\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\8012\TodoList\TodoList\bin\System.Web.Helpers.xml
+D:\8012\TodoList\TodoList\bin\System.Web.Mvc.xml
+D:\8012\TodoList\TodoList\bin\System.Web.Optimization.xml
+D:\8012\TodoList\TodoList\bin\System.Web.Razor.xml
+D:\8012\TodoList\TodoList\bin\System.Web.WebPages.xml
+D:\8012\TodoList\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\8012\TodoList\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\8012\TodoList\TodoList\bin\EntityFramework.xml
+D:\8012\TodoList\TodoList\bin\EntityFramework.SqlServer.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\TodoList\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\TodoList\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\8012\TodoList\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+D:\8012\TodoList\TodoList\obj\Debug\TodoList.dll
+D:\8012\TodoList\TodoList\obj\Debug\TodoList.pdb
+D:\8012\TodoList1\TodoList\bin\ApplicationInsights.config
+D:\8012\TodoList1\TodoList\bin\TodoList.dll.config
+D:\8012\TodoList1\TodoList\bin\TodoList.dll
+D:\8012\TodoList1\TodoList\bin\TodoList.pdb
+D:\8012\TodoList1\TodoList\bin\Antlr3.Runtime.dll
+D:\8012\TodoList1\TodoList\bin\EntityFramework.dll
+D:\8012\TodoList1\TodoList\bin\EntityFramework.SqlServer.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.AI.Web.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Security.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Security.Google.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+D:\8012\TodoList1\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\8012\TodoList1\TodoList\bin\Newtonsoft.Json.dll
+D:\8012\TodoList1\TodoList\bin\Owin.dll
+D:\8012\TodoList1\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\8012\TodoList1\TodoList\bin\System.Web.Helpers.dll
+D:\8012\TodoList1\TodoList\bin\System.Web.Mvc.dll
+D:\8012\TodoList1\TodoList\bin\System.Web.Optimization.dll
+D:\8012\TodoList1\TodoList\bin\System.Web.Razor.dll
+D:\8012\TodoList1\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\8012\TodoList1\TodoList\bin\System.Web.WebPages.dll
+D:\8012\TodoList1\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\8012\TodoList1\TodoList\bin\WebGrease.dll
+D:\8012\TodoList1\TodoList\bin\Antlr3.Runtime.pdb
+D:\8012\TodoList1\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.AI.Web.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Security.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Security.Google.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+D:\8012\TodoList1\TodoList\bin\Newtonsoft.Json.xml
+D:\8012\TodoList1\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\8012\TodoList1\TodoList\bin\System.Web.Helpers.xml
+D:\8012\TodoList1\TodoList\bin\System.Web.Mvc.xml
+D:\8012\TodoList1\TodoList\bin\System.Web.Optimization.xml
+D:\8012\TodoList1\TodoList\bin\System.Web.Razor.xml
+D:\8012\TodoList1\TodoList\bin\System.Web.WebPages.xml
+D:\8012\TodoList1\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\8012\TodoList1\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\8012\TodoList1\TodoList\bin\EntityFramework.xml
+D:\8012\TodoList1\TodoList\bin\EntityFramework.SqlServer.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\TodoList1\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\TodoList1\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+D:\8012\TodoList1\TodoList\obj\Debug\TodoList.dll
+D:\8012\TodoList1\TodoList\obj\Debug\TodoList.pdb
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\ApplicationInsights.config
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\TodoList.dll.config
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\TodoList.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\TodoList.pdb
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Antlr3.Runtime.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\EntityFramework.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\EntityFramework.SqlServer.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AI.Web.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Security.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Security.Google.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Newtonsoft.Json.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Owin.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Web.Helpers.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Web.Mvc.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Web.Optimization.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Web.Razor.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Web.WebPages.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\WebGrease.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Antlr3.Runtime.pdb
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AI.Web.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Security.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Security.Google.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Newtonsoft.Json.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Web.Helpers.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Web.Mvc.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Web.Optimization.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Web.Razor.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Web.WebPages.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\EntityFramework.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\EntityFramework.SqlServer.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\projects\TodoList1 AJAX\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\8012\projects\TodoList1 AJAX\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+D:\8012\projects\TodoList1 AJAX\TodoList\obj\Debug\TodoList.dll
+D:\8012\projects\TodoList1 AJAX\TodoList\obj\Debug\TodoList.pdb
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\ApplicationInsights.config
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\TodoList.dll.config
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\TodoList.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\TodoList.pdb
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Antlr3.Runtime.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\EntityFramework.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\EntityFramework.SqlServer.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AI.Web.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Security.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Security.Google.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Newtonsoft.Json.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Owin.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Web.Helpers.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Web.Mvc.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Web.Optimization.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Web.Razor.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Web.WebPages.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\WebGrease.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Antlr3.Runtime.pdb
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AI.Web.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Security.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Security.Google.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Newtonsoft.Json.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Web.Helpers.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Web.Mvc.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Web.Optimization.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Web.Razor.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Web.WebPages.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\EntityFramework.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\EntityFramework.SqlServer.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\obj\Debug\TodoList.dll
+D:\8012\projects\TodoList3 AJAX and Scaffold - Copy\TodoList\obj\Debug\TodoList.pdb
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\ApplicationInsights.config
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\TodoList.dll.config
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\TodoList.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\TodoList.pdb
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Antlr3.Runtime.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\EntityFramework.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\EntityFramework.SqlServer.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AI.Web.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Google.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Newtonsoft.Json.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Owin.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Web.Helpers.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Web.Mvc.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Web.Optimization.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Web.Razor.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\WebGrease.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Antlr3.Runtime.pdb
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AI.Web.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Google.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Newtonsoft.Json.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Web.Helpers.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Web.Mvc.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Web.Optimization.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Web.Razor.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\EntityFramework.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\EntityFramework.SqlServer.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\obj\Debug\TodoList.dll
+D:\8012\projects\TodoList4 AJAX and Scaffold\TodoList\obj\Debug\TodoList.pdb
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\ApplicationInsights.config
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\TodoList.dll.config
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\TodoList.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\TodoList.pdb
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Antlr3.Runtime.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\EntityFramework.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\EntityFramework.SqlServer.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.Web.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Google.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Newtonsoft.Json.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Owin.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Helpers.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Mvc.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Optimization.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Razor.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\WebGrease.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Antlr3.Runtime.pdb
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.Web.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Google.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Newtonsoft.Json.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Helpers.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Mvc.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Optimization.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Razor.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\EntityFramework.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\EntityFramework.SqlServer.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\obj\Debug\TodoList.dll
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\obj\Debug\TodoList.pdb
+D:\8012\projects\TodoList5 AJAX and Scaffold\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\ApplicationInsights.config
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\TodoList.dll.config
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\TodoList.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\TodoList.pdb
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Antlr3.Runtime.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\EntityFramework.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\EntityFramework.SqlServer.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.Web.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Newtonsoft.Json.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Owin.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Helpers.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Mvc.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Optimization.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Razor.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\WebGrease.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Antlr3.Runtime.pdb
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.Web.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Newtonsoft.Json.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Helpers.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Mvc.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Optimization.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.Razor.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\EntityFramework.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\EntityFramework.SqlServer.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\obj\Debug\TodoList.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList\obj\Debug\TodoList.pdb
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\ApplicationInsights.config
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\TodoList.dll.config
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\TodoList.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\TodoList.pdb
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Antlr3.Runtime.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\EntityFramework.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\EntityFramework.SqlServer.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AI.Web.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Security.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Security.Google.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Newtonsoft.Json.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Owin.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Web.Helpers.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Web.Mvc.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Web.Optimization.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Web.Razor.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Web.WebPages.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\WebGrease.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Antlr3.Runtime.pdb
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AI.Web.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Security.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Security.Google.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Newtonsoft.Json.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Web.Helpers.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Web.Mvc.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Web.Optimization.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Web.Razor.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Web.WebPages.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\EntityFramework.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\EntityFramework.SqlServer.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\obj\Debug\TodoList.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList\obj\Debug\TodoList.pdb
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\ApplicationInsights.config
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\TodoList.dll.config
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\TodoList.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\TodoList.pdb
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Antlr3.Runtime.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\EntityFramework.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\EntityFramework.SqlServer.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AI.Web.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Google.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Newtonsoft.Json.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Owin.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Web.Helpers.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Web.Mvc.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Web.Optimization.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Web.Razor.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Web.WebPages.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\WebGrease.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Antlr3.Runtime.pdb
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AI.Web.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Google.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Newtonsoft.Json.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Web.Helpers.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Web.Mvc.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Web.Optimization.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Web.Razor.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Web.WebPages.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\EntityFramework.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\EntityFramework.SqlServer.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\projects\TodoList Week2 jQuery\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\8012\projects\TodoList Week2 jQuery\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+D:\8012\projects\TodoList Week2 jQuery\TodoList\obj\Debug\TodoList.dll
+D:\8012\projects\TodoList Week2 jQuery\TodoList\obj\Debug\TodoList.pdb
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\ApplicationInsights.config
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\TodoList.dll.config
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\TodoList.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\TodoList.pdb
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Antlr3.Runtime.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\EntityFramework.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\EntityFramework.SqlServer.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AI.Web.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Google.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Newtonsoft.Json.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Owin.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Web.Helpers.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Web.Mvc.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Web.Optimization.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Web.Razor.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Web.WebPages.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\WebGrease.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Antlr3.Runtime.pdb
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AI.Web.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Google.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Newtonsoft.Json.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Web.Helpers.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Web.Mvc.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Web.Optimization.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Web.Razor.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Web.WebPages.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\EntityFramework.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\EntityFramework.SqlServer.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\obj\Debug\TodoList.dll
+D:\8012\projects\TodoList version2 Week2 jQuery\TodoList\obj\Debug\TodoList.pdb
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\ApplicationInsights.config
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\TodoList.dll.config
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\TodoList.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\TodoList.pdb
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Antlr3.Runtime.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\EntityFramework.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\EntityFramework.SqlServer.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AI.Web.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Google.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Newtonsoft.Json.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Owin.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Web.Helpers.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Web.Mvc.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Web.Optimization.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Web.Razor.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Web.WebPages.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\WebGrease.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Antlr3.Runtime.pdb
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AI.Web.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Google.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Newtonsoft.Json.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Web.Helpers.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Web.Mvc.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Web.Optimization.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Web.Razor.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Web.WebPages.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\EntityFramework.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\EntityFramework.SqlServer.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\obj\Debug\TodoList.dll
+D:\8012\projects\TodoList version3 Week2 jQuery\TodoList\obj\Debug\TodoList.pdb
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\ApplicationInsights.config
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\TodoList.dll.config
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\TodoList.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\TodoList.pdb
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Antlr3.Runtime.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\EntityFramework.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\EntityFramework.SqlServer.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AI.Web.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Google.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Newtonsoft.Json.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Owin.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Web.Helpers.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Web.Mvc.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Web.Optimization.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Web.Razor.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Web.WebPages.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\WebGrease.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Antlr3.Runtime.pdb
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AI.Web.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Google.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Newtonsoft.Json.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Web.Helpers.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Web.Mvc.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Web.Optimization.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Web.Razor.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Web.WebPages.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\EntityFramework.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\EntityFramework.SqlServer.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\obj\Debug\TodoList.dll
+D:\8012\projects\TodoList version4 Week2 jQuery\TodoList\obj\Debug\TodoList.pdb
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\ApplicationInsights.config
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\TodoList.dll.config
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\TodoList.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\TodoList.pdb
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Antlr3.Runtime.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\EntityFramework.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\EntityFramework.SqlServer.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.Web.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Newtonsoft.Json.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Owin.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Web.Helpers.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Web.Mvc.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Web.Optimization.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Web.Razor.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Web.WebPages.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\WebGrease.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Antlr3.Runtime.pdb
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.Web.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Newtonsoft.Json.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Web.Helpers.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Web.Mvc.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Web.Optimization.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Web.Razor.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Web.WebPages.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\EntityFramework.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\EntityFramework.SqlServer.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\obj\Debug\TodoList.dll
+C:\Users\bth\Documents\8012 project\TodoList Week3 jQuery\TodoList\obj\Debug\TodoList.pdb
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\ApplicationInsights.config
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\TodoList.dll.config
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\TodoList.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\TodoList.pdb
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Antlr3.Runtime.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\EntityFramework.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\EntityFramework.SqlServer.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.Web.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Google.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Newtonsoft.Json.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Owin.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Web.Helpers.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Web.Mvc.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Web.Optimization.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Web.Razor.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Web.WebPages.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\WebGrease.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Antlr3.Runtime.pdb
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.Web.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Google.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Newtonsoft.Json.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Web.Helpers.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Web.Mvc.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Web.Optimization.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Web.Razor.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Web.WebPages.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\EntityFramework.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\EntityFramework.SqlServer.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\projects\TodoList Week3 jQuery\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\8012\projects\TodoList Week3 jQuery\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+D:\8012\projects\TodoList Week3 jQuery\TodoList\obj\Debug\TodoList.dll
+D:\8012\projects\TodoList Week3 jQuery\TodoList\obj\Debug\TodoList.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\ApplicationInsights.config
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\TodoList.dll.config
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\TodoList.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\TodoList.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Antlr3.Runtime.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\EntityFramework.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\EntityFramework.SqlServer.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AI.Web.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Newtonsoft.Json.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Web.Helpers.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Web.Mvc.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Web.Optimization.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Web.Razor.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Web.WebPages.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\WebGrease.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Antlr3.Runtime.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AI.Web.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Newtonsoft.Json.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Web.Helpers.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Web.Mvc.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Web.Optimization.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Web.Razor.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Web.WebPages.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\EntityFramework.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\EntityFramework.SqlServer.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\obj\Debug\TodoList.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList\obj\Debug\TodoList.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\ApplicationInsights.config
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\TodoList.dll.config
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\TodoList.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\TodoList.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Antlr3.Runtime.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\EntityFramework.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\EntityFramework.SqlServer.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AI.Web.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Newtonsoft.Json.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Web.Helpers.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Web.Mvc.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Web.Optimization.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Web.Razor.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Web.WebPages.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\WebGrease.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Antlr3.Runtime.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AI.Web.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Newtonsoft.Json.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Web.Helpers.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Web.Mvc.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Web.Optimization.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Web.Razor.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Web.WebPages.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\EntityFramework.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\EntityFramework.SqlServer.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\obj\Debug\TodoList.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList\obj\Debug\TodoList.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\ApplicationInsights.config
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\TodoList.dll.config
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\TodoList.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\TodoList.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Antlr3.Runtime.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\EntityFramework.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\EntityFramework.SqlServer.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.Web.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Newtonsoft.Json.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Helpers.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Mvc.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Optimization.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Razor.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.WebPages.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\WebGrease.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Antlr3.Runtime.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.Web.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Newtonsoft.Json.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Helpers.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Mvc.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Optimization.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Razor.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.WebPages.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\EntityFramework.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\EntityFramework.SqlServer.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\obj\Debug\TodoList.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week4 jQueryMobile\TodoList\obj\Debug\TodoList.pdb
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\ApplicationInsights.config
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\TodoList.dll.config
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\TodoList.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\TodoList.pdb
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Antlr3.Runtime.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\EntityFramework.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\EntityFramework.SqlServer.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.Web.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Google.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Newtonsoft.Json.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Owin.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Helpers.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Mvc.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Optimization.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Razor.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.WebPages.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\WebGrease.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Antlr3.Runtime.pdb
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.Web.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Google.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Newtonsoft.Json.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Helpers.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Mvc.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Optimization.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.Razor.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.WebPages.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\EntityFramework.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\EntityFramework.SqlServer.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\obj\Debug\TodoList.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList\obj\Debug\TodoList.pdb

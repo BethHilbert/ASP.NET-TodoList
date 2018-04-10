@@ -1,0 +1,414 @@
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\TodoList.Tests.dll.config
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\TodoList.Tests.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\TodoList.Tests.pdb
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\TodoList.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Owin.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\EntityFramework.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\TodoList.pdb
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\TodoList.dll.config
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\EntityFramework.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\obj\Debug\TodoList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\obj\Debug\TodoList.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\obj\Debug\TodoList.Tests.dll
+C:\Users\bth\Documents\IS8012\TodoList\TodoList.Tests\obj\Debug\TodoList.Tests.pdb
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\ApplicationInsights.config
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\TodoList.Tests.dll.config
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\TodoList.Tests.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\TodoList.Tests.pdb
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\System.Web.Helpers.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\System.Web.Mvc.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\System.Web.Razor.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\System.Web.WebPages.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\TodoList.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.Owin.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\System.Web.Optimization.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Owin.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\EntityFramework.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\TodoList.pdb
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\TodoList.dll.config
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\System.Web.Helpers.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\System.Web.Mvc.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\System.Web.Razor.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\System.Web.WebPages.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.Owin.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\System.Web.Optimization.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\EntityFramework.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\8012\TodoList1\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\TodoList1\TodoList.Tests\obj\Debug\TodoList.Tests.csprojResolveAssemblyReference.cache
+D:\8012\TodoList1\TodoList.Tests\obj\Debug\TodoList.Tests.csproj.CoreCompileInputs.cache
+D:\8012\TodoList1\TodoList.Tests\obj\Debug\TodoList.Tests.dll
+D:\8012\TodoList1\TodoList.Tests\obj\Debug\TodoList.Tests.pdb
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\ApplicationInsights.config
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\TodoList.Tests.dll.config
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\TodoList.Tests.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\TodoList.Tests.pdb
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\System.Web.Helpers.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\System.Web.Mvc.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\System.Web.Razor.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\System.Web.WebPages.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\TodoList.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\System.Web.Optimization.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Owin.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\EntityFramework.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\TodoList.pdb
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\TodoList.dll.config
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\System.Web.Helpers.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\System.Web.Mvc.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\System.Web.Razor.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\System.Web.WebPages.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\System.Web.Optimization.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\EntityFramework.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\obj\Debug\TodoList.Tests.csprojResolveAssemblyReference.cache
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\obj\Debug\TodoList.Tests.csproj.CoreCompileInputs.cache
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\obj\Debug\TodoList.Tests.dll
+D:\8012\projects\TodoList1 AJAX\TodoList.Tests\obj\Debug\TodoList.Tests.pdb
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\TodoList.Tests.dll.config
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\TodoList.Tests.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\TodoList.Tests.pdb
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\TodoList.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Owin.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\EntityFramework.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\TodoList.pdb
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\TodoList.dll.config
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\EntityFramework.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\obj\Debug\TodoList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\obj\Debug\TodoList.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\obj\Debug\TodoList.Tests.dll
+C:\Users\bth\Documents\8012\projects\TodoList5 AJAX and Scaffold\TodoList.Tests\obj\Debug\TodoList.Tests.pdb
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\ApplicationInsights.config
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\TodoList.Tests.dll.config
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\TodoList.Tests.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\TodoList.Tests.pdb
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\System.Web.Helpers.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\System.Web.Mvc.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\System.Web.Razor.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\System.Web.WebPages.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\TodoList.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\System.Web.Optimization.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Owin.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\EntityFramework.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\TodoList.pdb
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\TodoList.dll.config
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\System.Web.Helpers.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\System.Web.Mvc.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\System.Web.Razor.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\System.Web.WebPages.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\System.Web.Optimization.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\EntityFramework.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\obj\Debug\TodoList.Tests.csprojResolveAssemblyReference.cache
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\obj\Debug\TodoList.Tests.csproj.CoreCompileInputs.cache
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\obj\Debug\TodoList.Tests.dll
+D:\8012\TodoList5 Scaffold and AJAX\TodoList.Tests\obj\Debug\TodoList.Tests.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\TodoList.Tests.dll.config
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\TodoList.Tests.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\TodoList.Tests.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\TodoList.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\EntityFramework.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\TodoList.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\TodoList.dll.config
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\EntityFramework.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\obj\Debug\TodoList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\obj\Debug\TodoList.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\obj\Debug\TodoList.Tests.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQuery Ajax\TodoList.Tests\obj\Debug\TodoList.Tests.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\TodoList.Tests.dll.config
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\TodoList.Tests.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\TodoList.Tests.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\TodoList.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Owin.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\EntityFramework.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\TodoList.pdb
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\TodoList.dll.config
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\EntityFramework.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\obj\Debug\TodoList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\obj\Debug\TodoList.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\obj\Debug\TodoList.Tests.dll
+C:\Users\bth\Documents\GitHub\IS8012\TodoList Week3 jQueryBranch\TodoList.Tests\obj\Debug\TodoList.Tests.pdb
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\ApplicationInsights.config
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\TodoList.Tests.dll.config
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\TodoList.Tests.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\TodoList.Tests.pdb
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\System.Web.Helpers.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\System.Web.Mvc.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\System.Web.Razor.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\System.Web.WebPages.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\TodoList.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.Owin.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\System.Web.Optimization.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Owin.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\EntityFramework.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\TodoList.pdb
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\System.Web.Helpers.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\System.Web.Mvc.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\System.Web.Razor.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\System.Web.WebPages.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.Owin.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\System.Web.Optimization.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\EntityFramework.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\obj\Debug\TodoList.Tests.csprojResolveAssemblyReference.cache
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\obj\Debug\TodoList.Tests.dll
+D:\BethUC\UC Classes\IS8012 Advanced Web Development\8012 projects\TodoList Week4 jQueryMobile\TodoList.Tests\obj\Debug\TodoList.Tests.pdb

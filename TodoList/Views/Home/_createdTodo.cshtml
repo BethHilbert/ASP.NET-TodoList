@@ -1,0 +1,5 @@
+﻿@model TodoList.Models.TodoItem
+
+<li class="list-group-item" id="itemContent-@Model.Id">
+	@{ Html.RenderPartial("_task", Model); }
+</li>

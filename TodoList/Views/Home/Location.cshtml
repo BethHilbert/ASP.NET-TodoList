@@ -1,0 +1,48 @@
+﻿@{
+	ViewBag.Title = "Location";
+}
+
+<h2>Location</h2>
+
+<div id="location">
+	<img src="" />
+	<br />
+	<div class="form-group">
+		<label for="Latitude">Current Latitude</label>
+		<input type="text" class="form-control" id="Latitude" placeholder="Latitude" />
+	</div>
+	<div class="form-group">
+		<label for="Longitude">Current Longitude</label>
+		<input type="text" class="form-control" id="Longitude" placeholder="Longitude" />
+	</div>
+
+	<button id="getCoord">Get Your Current Longitude and Latitude</button>
+
+</div>
+
+
+@section Scripts {
+	<script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+	<script>
+		$(document).ready(function () {
+			$('#location').on('click', '#getCoord', function () {
+				if ("geolocation" in navigator) {
+					navigator.geolocation.watchPosition(function (location) {
+						//navigator.geolocation.getCurrentPosition(function (location) {
+						var lat = location.coords.latitude
+						console.log(lat);
+						var long = location.coords.longitude;
+						console.log(long);
+						$("#Latitude").val(lat);
+						$("#Longitude").val(long);
+					});
+				} else {
+					console.log("GeoLocation not available");
+				};
+				$("#Latitude").val("");
+				$("#Longitude").val("");
+				return false;
+			});
+		});
+	</script>
+}

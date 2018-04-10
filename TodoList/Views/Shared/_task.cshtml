@@ -1,0 +1,30 @@
+﻿@model TodoList.Models.TodoItem
+
+<span style="padding-top: 5px; padding-right: 5px;">
+	</strong>
+		@Model.Category.Name     -
+		@Model.Task     -  
+		@Model.DateCompleted      
+
+			@Ajax.ActionLink("Delete", "Delete", new { controller = "Home", Id = Model.Id }, new AjaxOptions
+	   {
+		   HttpMethod = "POST",
+		   InsertionMode = InsertionMode.ReplaceWith,
+		   UpdateTargetId = "itemContent-" + Model.Id,
+		   Confirm = "Are you sure you want to delete " + Model.Task + "?",
+	   }, new
+	   {
+		   @class = "btn btn-xs btn-danger"
+	   })
+			
+			@using (Html.BeginForm(
+						"MarkDone",                         // action
+						"Home",								 // controller
+						new { id = Model.Id },               // parameters
+						FormMethod.Post,                    // Form method (GET or POST)
+						new { style = "display: inline" })) // html attributes
+			{
+				@Html.AntiForgeryToken()
+				<input class="btn btn-link" style="padding: 0" type="Submit" value="Mark as Done" />
+			}
+</span>
